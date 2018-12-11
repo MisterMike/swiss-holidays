@@ -1,24 +1,24 @@
 # Swiss Holidays
-Does this date is a holiday in these cantons ?
+Craft CMS Module to check if a given date is a public holidays in a set of given swiss cantons.
 
-## Installation
+## Installation (TBD)
 
 ### Using Composer
 You can use the `composer` package manager to install. Either run:
 
-    $ php composer.phar require melba-ch/swiss-holidays "*"
+    $ php composer.phar require MisterMike/swiss-holidays "*"
 
 or add:
 
-    "melba-ch/swiss-holidays": "*"
+    "MisterMike/swiss-holidays": "*"
 
 to your composer.json file
 
 ### Manual Install
 
-You can also manually install the API easily to your project. Just download the source [ZIP](https://github.com/melba-ch/swiss-holidays/archive/master.zip) and extract its content into your project.
+You can also manually install the API easily to your project. Just download the source [ZIP](https://github.com/MisterMike/swiss-holidays/archive/master.zip) and extract its content into your project.
 
-## Usage
+## Usage (TBD)
 
 Does this date is a holiday in these cantons
 ```php
